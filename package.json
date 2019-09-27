@@ -1,12 +1,12 @@
 {
-  "id": "gmail",
-  "name": "Gmail",
+  "id": "reddit",
+  "name": "Reddit",
   "version": "1.1.1",
-  "description": "Gmail",
+  "description": "Reddit",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "Sounak Pradhan <sounak.98@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://mail.google.com"
+    "serviceURL": "https://www.reddit.com"
   }
 }
